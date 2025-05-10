@@ -1,7 +1,7 @@
 # MICROPROCESSORS-CSE341-Project
 # 🐍 Snake Game in Assembly
 
-This is a classic **Snake Game** written in **x86 Assembly (8086)**, designed to run in **DOS** environments or emulators like **DOSBox**. It's a fun project demonstrating low-level game logic, user input handling, and real-time rendering using text-mode graphics.
+This is a classic **Snake Game** written in **x86 Assembly (8086)**, designed to run in **DOS** environments or emulators like **DOSBox**, **EMU8086**. It's a fun project demonstrating low-level game logic, user input handling, and real-time rendering using text-mode graphics.
 
 🧠 Features
 Real-time input without blocking the game loop
